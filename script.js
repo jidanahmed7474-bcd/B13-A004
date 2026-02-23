@@ -42,6 +42,7 @@ var jobs = [
         status: 'not-applied',
         desc: 'Design and maintain scalable backend systems using Python and AWS. Work with modern DevOps practices and cloud infrastructure.'
   },
+
     {
         id: 5,
         company: 'Innovation Labs',
@@ -51,6 +52,39 @@ var jobs = [
         salary: '$110,000 - $150,000',
         status: 'not-applied',
         desc: 'Create beautiful and functional user interfaces for our suite of products. Strong design skills and frontend development expertise required.'
+  },
+
+    {
+        id: 6,
+        company: 'MegaCorp Solutions',
+        title: 'JavaScript Developer',
+        location: 'New York, NY',
+        type: 'Full-time',
+        salary: '$130,000 - $170,00',
+        status: 'not-applied',
+        desc: 'Build enterprise applications with JavaScript and modern frameworks. We offer competitive compensation, health insurance, and professional development opportunities.'
+  },
+
+    {
+        id: 7,
+        company: 'StartupXYZ',
+        title: 'Full Stack Engineer',
+        location: 'Remote',
+        type: 'Full-time',
+        salary: '$120,000 - $160,000',
+        status: 'not-applied',
+        desc: 'Join our fast-growing startup and work on our core platform. Experience with Node.js and React required. Great benefits and equity package included.'
+  },
+
+    {
+        id: 8,
+        company: 'TechCorp Industries',
+        title: 'Senior Frontend Developer',
+        location: 'San Francisco, CA',
+        type: 'Full-time',
+        salary: '$130,000 - $175,000',
+        status: 'not-applied',
+        desc: 'We are looking for an experienced Frontend Developer to build scalable web applications using React and TypeScript. You will work with a talented team on cutting-edge projects.'
   },
 
 
