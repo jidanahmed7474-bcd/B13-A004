@@ -11,6 +11,17 @@ var jobs = [
     desc: 'Build cross-platform mobile applications using React Native. Work on products used by millions of users worldwide.'
   },
 
+  {
+    id: 2,
+    company: 'WebFlow Agency',
+    title: 'Web Designer & Developer',
+    location: 'Los Angeles, CA',
+    type: 'Part-time',
+    salary: ' $80,000 - $120,000',
+    status: 'not-applied',
+    desc: 'Create stunning web experiences for high-profile clients. Must have portfolio and experience with modern web design trends.'
+  },
+
 
 
 
