@@ -1,3 +1,23 @@
+var jobs = [
+
+{
+    id: 1,
+    company: 'Mobile First Corp',
+    title: 'React Native Developer',
+    location: 'Remote',
+    type: 'Full-time',
+    salary: '$130,000 - $175,000',
+    status: 'not-applied',
+    desc: 'Build cross-platform mobile applications using React Native. Work on products used by millions of users worldwide.'
+  },
+
+
+
+
+
+
+];
+
 var currentTab = 'all';
 
 
