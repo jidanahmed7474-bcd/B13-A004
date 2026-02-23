@@ -87,3 +87,34 @@
   background: #dc2626;
   color: white;
 }
+
+.job-card.removing {
+  animation: removeCard 0.3s ease forwards;
+}
+
+@keyframes removeCard {
+  to {
+    opacity: 0;
+    transform: translateX(20px);
+    max-height: 0;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+}
+
+
+.fade-in {
+  animation: fadeIn 0.25s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
